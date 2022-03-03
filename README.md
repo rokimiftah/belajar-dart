@@ -1,1 +1,3 @@
-A simple command-line application.
+
+
+Belajar bahasa pemrograman Dart bagi pemula.
