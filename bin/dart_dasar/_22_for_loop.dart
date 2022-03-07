@@ -5,8 +5,6 @@
 /// condition => ini adalah statement yang akan dijalankan selama kondisi for terpenuhi, jika true perulangan akan dilakukan, jika false perulangan akan berhenti
 /// post statement => ini adalah statement yang akan dijalankan setiap kali diakhir perulangan
 /// init statement, condition, dan post statement dapat berupa statement yang berbeda dan tidak wajib diisi, jika kondisi tidak diisi berarti kondisi selalu true
-// ignore_for_file: dead_code
-
 void main() {
   // perulangan tanpa henti
   for (;;) {
