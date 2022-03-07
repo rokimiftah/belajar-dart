@@ -10,10 +10,12 @@ void main() {
   // }
 
   // anonymous function
-  upperFunction(String name) => name.toUpperCase();
+  var upperFunction = (String name) {
+    return name.toUpperCase();
+  };
 
   // anonymous function short expression
-  lowerFunction(String name) => name.toLowerCase();
+  var lowerFunction = (String name) => name.toLowerCase();
 
   print(upperFunction('Roki'));
   print(lowerFunction('Roki'));
