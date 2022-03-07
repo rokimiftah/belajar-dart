@@ -8,9 +8,11 @@ import 'dart:io';
 // }
 
 void main() {
-  print('Nama:');
-  String nama = stdin.readLineSync()!;
-  print(nama);
+  stdout.write('Masukkan suhu dalam farenheit: ');
+  String input = stdin.readLineSync()!;
+  int fahrenheit = int.parse(input);
+  double celcius = (fahrenheit - 32) * 5 / 9;
+  print('$fahrenheit derajat farenheit adalah $celcius derajat celcius');
 }
 
 // void main() {
