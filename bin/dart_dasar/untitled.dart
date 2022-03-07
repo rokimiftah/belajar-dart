@@ -8,9 +8,9 @@ import 'dart:io';
 // }
 
 void main() {
-  print('Name:');
-  String name = stdin.readLineSync()!;
-  print(name);
+  print('Nama:');
+  String nama = stdin.readLineSync()!;
+  print(nama);
 }
 
 // void main() {
