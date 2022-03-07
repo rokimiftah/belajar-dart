@@ -1,4 +1,4 @@
-import 'dart:io';
+
 // void main() {
 //   print(numberToString(123456789));
 // }
@@ -14,8 +14,4 @@ import 'dart:io';
 //   print('$farenheit = dalam celcius: $celcius');
 // }
 
-void main() {
-  List<String> fruits = <String>['Pisang', 'Jambu', 'Apel', 'Durian'];
-  var fruit = fruits.length - 1;
-  print(fruits[fruit]);
-}
+
