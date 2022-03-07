@@ -7,7 +7,12 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Dart (bin\\dart_dasar\\untitled.dart)",
+      "name": "Dart",
+      "type": "dart",
+      "request": "launch",
+    },
+    {
+      "name": "Untitled",
       "type": "dart",
       "request": "launch",
       "program": "bin\\dart_dasar\\untitled.dart",
