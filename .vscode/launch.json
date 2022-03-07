@@ -7,11 +7,11 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "belajar-dart",
-      // "program": "bin/dart_dasar/untitled.dart",
-      "request": "launch",
+      "name": "Dart (bin\\dart_dasar\\untitled.dart)",
       "type": "dart",
-      "console": "terminal",
+      "request": "launch",
+      "program": "bin\\dart_dasar\\untitled.dart",
+      "console": "terminal"
     }
   ]
 }
