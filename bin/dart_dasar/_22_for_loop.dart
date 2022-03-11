@@ -12,15 +12,15 @@ void main() {
   } // akan terus dijalankan selama kondisi true
 
   //perulangan dengan kondisi
-  var counter = 1;
+  // var counter = 1;
 
-  for (; counter <= 10;) {
-    print('Perulangan ke-$counter');
-    counter++;
-  } // akan terus dijalankan selama kondisi true
+  // for (; counter <= 10;) {
+  //   print('Perulangan ke-$counter');
+  //   counter++;
+  // } // akan terus dijalankan selama kondisi true
 
-  // perulangan dengan init statement, condition, dan post statement
-  for (var i = 1; i <= 10; i++) {
-    print('Perulangan ke-$i');
-  } // akan terus dijalankan selama kondisi true
+  // // perulangan dengan init statement, condition, dan post statement
+  // for (var i = 1; i <= 10; i++) {
+  //   print('Perulangan ke-$i');
+  // } // akan terus dijalankan selama kondisi true
 }
