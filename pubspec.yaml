@@ -9,4 +9,4 @@ dependencies:
   path: ^1.8.1
 
 dev_dependencies: 
-  linter: ^1.19.2
+  flutter_lints: ^1.0.4
