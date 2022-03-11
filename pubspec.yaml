@@ -8,5 +8,5 @@ environment:
 dependencies:
   path: ^1.8.1
 
-dev_dependencies:
-  lints: ^1.0.1
+dev_dependencies: 
+  linter: ^1.19.2
